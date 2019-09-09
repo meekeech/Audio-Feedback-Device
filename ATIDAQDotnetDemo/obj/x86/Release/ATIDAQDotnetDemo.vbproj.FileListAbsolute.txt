@@ -1,0 +1,4 @@
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\bin\x86\Release\ATIDAQDotnetDemo.exe.config
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Release\Interop.ATIFTVISUALIZERLib.dll
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Release\AxInterop.ATIFTVISUALIZERLib.dll
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Release\ATIDAQDotnetDemo.vbproj.ResolveComReference.cache

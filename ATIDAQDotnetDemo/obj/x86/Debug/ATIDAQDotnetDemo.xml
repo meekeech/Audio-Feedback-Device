@@ -1,0 +1,153 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ATIDAQDotnetDemo
+</name>
+</assembly>
+<members>
+<member name="T:ATIDAQDotnetDemo.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ATIDAQDotnetDemo.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ATIDAQDotnetDemo.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:ATIDAQDotnetDemo.ATIDAQFTDemoOptions">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ATIDAQDotnetDemo.ATIDAQFTDemoOptions.DemoOptionsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ATIDAQDotnetDemo.ATIDAQFTDemoOptions.DemoOptionsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ATIDAQDotnetDemo.ATIDAQFTDemoOptions.DemoOptionsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ATIDAQDotnetDemo.CommManager.TransmissionType">
+ <summary>
+ enumeration to hold our transmission types
+ </summary>
+</member>
+<member name="T:ATIDAQDotnetDemo.CommManager.MessageType">
+ <summary>
+ enumeration to hold our message types
+ </summary>
+</member>
+<member name="P:ATIDAQDotnetDemo.CommManager.BaudRate">
+ <summary>
+ Property to hold the BaudRate
+ of our manager class
+ </summary>
+</member>
+<member name="P:ATIDAQDotnetDemo.CommManager.Parity">
+ <summary>
+ property to hold the Parity
+ of our manager class
+ </summary>
+</member>
+<member name="P:ATIDAQDotnetDemo.CommManager.StopBits">
+ <summary>
+ property to hold the StopBits
+ of our manager class
+ </summary>
+</member>
+<member name="P:ATIDAQDotnetDemo.CommManager.DataBits">
+ <summary>
+ property to hold the DataBits
+ of our manager class
+ </summary>
+</member>
+<member name="P:ATIDAQDotnetDemo.CommManager.PortName">
+ <summary>
+ property to hold the PortName
+ of our manager class
+ </summary>
+</member>
+<member name="P:ATIDAQDotnetDemo.CommManager.CurrentTransmissionType">
+ <summary>
+ property to hold our TransmissionType
+ of our manager class
+ </summary>
+</member>
+<member name="P:ATIDAQDotnetDemo.CommManager.DisplayWindow">
+ <summary>
+ property to hold our display window
+ value
+ </summary>
+</member>
+<member name="P:ATIDAQDotnetDemo.CommManager.Message">
+ <summary>
+ Property to hold the message being sent
+ through the serial port
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:ATIDAQDotnetDemo.CommManager.Type">
+ <summary>
+ Message to hold the transmission type
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:ATIDAQDotnetDemo.CommManager.#ctor(System.String,System.String,System.String,System.String,System.String,System.Windows.Forms.RichTextBox)">
+ <summary>
+ Constructor to set the properties of our Manager Class
+ </summary>
+ <param name="baud">Desired BaudRate</param>
+ <param name="par">Desired Parity</param>
+ <param name="sBits">Desired StopBits</param>
+ <param name="dBits">Desired DataBits</param>
+ <param name="name">Desired PortName</param>
+</member>
+<member name="M:ATIDAQDotnetDemo.CommManager.#ctor">
+ <summary>
+ Comstructor to set the properties of our
+ serial port communicator to nothing
+ </summary>
+</member>
+<member name="M:ATIDAQDotnetDemo.CommManager.DisplayData(ATIDAQDotnetDemo.CommManager.MessageType,System.String)">
+ <summary>
+ Method to display the data to and
+ from the port on the screen
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:ATIDAQDotnetDemo.CommManager.DoDisplay(System.Object,System.EventArgs)">
+ <summary>
+ method that will be called when theres data waiting in the buffer
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ATIDAQDotnetDemo.formDataCollection.CSVFields(System.String[])">
+ <summary>
+ Returns comma-separated list of field values.  Values are enclosed in double-quotes, and list separator is culture specific.
+ </summary>
+ <param name="values">The values to be placed in a csv field.</param>
+ <returns>A CSV line of the field values.</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

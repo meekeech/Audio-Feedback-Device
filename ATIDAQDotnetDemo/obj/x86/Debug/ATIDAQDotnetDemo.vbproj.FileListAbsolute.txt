@@ -1,0 +1,110 @@
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\bin\x86\Debug\ATIDAQDotnetDemo.exe.config
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\Interop.ATIFTVISUALIZERLib.dll
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\AxInterop.ATIFTVISUALIZERLib.dll
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.vbproj.ResolveComReference.cache
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\bin\x86\Debug\ATIDAQDotnetDemo.exe
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\bin\x86\Debug\ATIDAQDotnetDemo.pdb
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\bin\x86\Debug\ATIDAQDotnetDemo.xml
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\bin\x86\Debug\ATICombinedDAQFT.dll
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\bin\x86\Debug\ATICombinedDAQFT.pdb
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\bin\x86\Debug\Interop.ATIFTVISUALIZERLib.dll
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\bin\x86\Debug\AxInterop.ATIFTVISUALIZERLib.dll
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.vbprojResolveAssemblyReference.cache
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.dialogPresentationOptions.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formAbout.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formCalibrationInfo.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formCalibrationOptions.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formDAQOptions.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formDataCollection.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formDiagnostics.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formMain.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formPresentation.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.Resources.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.SmoothProgressBar.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.vbproj.GenerateResource.Cache
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.exe
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.xml
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.pdb
+B:\ATI\daqsource\ATIDAQDotnetDemo\bin\x86\Debug\ATIDAQDotnetDemo.exe.config
+B:\ATI\daqsource\ATIDAQDotnetDemo\bin\x86\Debug\ATIDAQDotnetDemo.exe
+B:\ATI\daqsource\ATIDAQDotnetDemo\bin\x86\Debug\ATIDAQDotnetDemo.pdb
+B:\ATI\daqsource\ATIDAQDotnetDemo\bin\x86\Debug\ATIDAQDotnetDemo.xml
+B:\ATI\daqsource\ATIDAQDotnetDemo\bin\x86\Debug\ATICombinedDAQFT.dll
+B:\ATI\daqsource\ATIDAQDotnetDemo\bin\x86\Debug\Interop.ATIFTVISUALIZERLib.dll
+B:\ATI\daqsource\ATIDAQDotnetDemo\bin\x86\Debug\AxInterop.ATIFTVISUALIZERLib.dll
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.vbprojResolveAssemblyReference.cache
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\Interop.ATIFTVISUALIZERLib.dll
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\AxInterop.ATIFTVISUALIZERLib.dll
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.vbproj.ResolveComReference.cache
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.dialogPresentationOptions.resources
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formAbout.resources
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formCalibrationInfo.resources
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formCalibrationOptions.resources
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formDAQOptions.resources
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formDataCollection.resources
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formDiagnostics.resources
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formMain.resources
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formPresentation.resources
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.Resources.resources
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.SmoothProgressBar.resources
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.vbproj.GenerateResource.Cache
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.vbproj.CoreCompileInputs.cache
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.exe
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.xml
+B:\ATI\daqsource\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.pdb
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\bin\x86\Debug\ATIDAQDotnetDemo.exe.config
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\bin\x86\Debug\ATIDAQDotnetDemo.exe
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\bin\x86\Debug\ATIDAQDotnetDemo.pdb
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\bin\x86\Debug\ATIDAQDotnetDemo.xml
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\bin\x86\Debug\ATICombinedDAQFT.dll
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\bin\x86\Debug\Interop.ATIFTVISUALIZERLib.dll
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\bin\x86\Debug\AxInterop.ATIFTVISUALIZERLib.dll
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.vbprojAssemblyReference.cache
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\Interop.ATIFTVISUALIZERLib.dll
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\AxInterop.ATIFTVISUALIZERLib.dll
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.vbproj.ResolveComReference.cache
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.dialogPresentationOptions.resources
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formAbout.resources
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formCalibrationInfo.resources
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formCalibrationOptions.resources
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formDAQOptions.resources
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formDataCollection.resources
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formDiagnostics.resources
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formMain.resources
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formPresentation.resources
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.Resources.resources
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.SmoothProgressBar.resources
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.vbproj.GenerateResource.cache
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.vbproj.CoreCompileInputs.cache
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.vbproj.CopyComplete
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.exe
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.xml
+C:\Users\Denso Washington\Documents\force-testing\force-testing\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.pdb
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\bin\x86\Debug\ATIDAQDotnetDemo.exe.config
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\bin\x86\Debug\ATIDAQDotnetDemo.exe
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\bin\x86\Debug\ATIDAQDotnetDemo.pdb
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\bin\x86\Debug\ATIDAQDotnetDemo.xml
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\bin\x86\Debug\ATICombinedDAQFT.dll
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\bin\x86\Debug\Interop.ATIFTVISUALIZERLib.dll
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\bin\x86\Debug\AxInterop.ATIFTVISUALIZERLib.dll
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.vbprojAssemblyReference.cache
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\Interop.ATIFTVISUALIZERLib.dll
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\AxInterop.ATIFTVISUALIZERLib.dll
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.vbproj.ResolveComReference.cache
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.dialogPresentationOptions.resources
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formAbout.resources
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formCalibrationInfo.resources
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formCalibrationOptions.resources
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formDAQOptions.resources
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formDataCollection.resources
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formDiagnostics.resources
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formMain.resources
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.formPresentation.resources
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.Resources.resources
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.SmoothProgressBar.resources
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.vbproj.GenerateResource.cache
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.vbproj.CoreCompileInputs.cache
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.vbproj.CopyComplete
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.exe
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.xml
+C:\Users\Denso Washington\Desktop\Marko\Visual Studio\ATIDemo_MarkoMods\ATIDAQDotnetDemo\obj\x86\Debug\ATIDAQDotnetDemo.pdb

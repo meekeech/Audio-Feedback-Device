@@ -1,0 +1,53 @@
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\bin\ATIDAQDotnetDemo.exe
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\bin\ATIDAQDotnetDemo.exe.config
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\bin\ATICombinedDAQFT.dll
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\bin\ATICombinedDAQFT.pdb
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\Interop.ATIFTVISUALIZERLib.dll
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\AxInterop.ATIFTVISUALIZERLib.dll
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.vbproj.ResolveComReference.cache
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.dialogPresentationOptions.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.formAbout.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.formCalibrationInfo.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.formCalibrationOptions.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.formDAQOptions.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.formDataCollection.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.formDiagnostics.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.formMain.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.formPresentation.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.Resources.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.SmoothProgressBar.resources
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.exe
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.xml
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.pdb
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\bin\ATIDAQDotnetDemo.pdb
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\bin\ATIDAQDotnetDemo.xml
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\bin\Interop.ATIFTVISUALIZERLib.dll
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\bin\AxInterop.ATIFTVISUALIZERLib.dll
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.vbproj.GenerateResource.Cache
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.vbprojResolveAssemblyReference.cache
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\bin\ATIDAQDotnetDemo.exe.config
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\Interop.ATIFTVISUALIZERLib.dll
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\AxInterop.ATIFTVISUALIZERLib.dll
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.vbproj.ResolveComReference.cache
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.exe
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.xml
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.pdb
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\bin\ATIDAQDotnetDemo.exe
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\bin\ATIDAQDotnetDemo.pdb
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\bin\ATIDAQDotnetDemo.xml
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\bin\ATICombinedDAQFT.dll
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\bin\Interop.ATIFTVISUALIZERLib.dll
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\bin\AxInterop.ATIFTVISUALIZERLib.dll
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.vbprojResolveAssemblyReference.cache
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.dialogPresentationOptions.resources
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.formAbout.resources
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.formCalibrationInfo.resources
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.formCalibrationOptions.resources
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.formDAQOptions.resources
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.formDataCollection.resources
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.formDiagnostics.resources
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.formMain.resources
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.formPresentation.resources
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.Resources.resources
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.SmoothProgressBar.resources
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug\ATIDAQDotnetDemo.vbproj.GenerateResource.Cache

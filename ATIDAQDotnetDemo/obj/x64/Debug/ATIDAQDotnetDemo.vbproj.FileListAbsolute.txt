@@ -1,0 +1,2 @@
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\ATI Software\FT\DAQ FT\ATICombinedDAQFT_SLN\ATIDAQDotnetDemo\obj\x64\Debug\Interop.ATIFTVISUALIZERLib.dll

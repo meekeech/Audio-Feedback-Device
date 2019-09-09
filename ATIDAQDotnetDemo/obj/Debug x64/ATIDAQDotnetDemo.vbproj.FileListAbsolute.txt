@@ -1,0 +1,4 @@
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\bin\Debug x64\ATIDAQDotnetDemo.exe.config
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug x64\Interop.ATIFTVISUALIZERLib.dll
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug x64\AxInterop.ATIFTVISUALIZERLib.dll
+C:\Users\skusa\Desktop\temp\ATIDAQDotnetDemo\obj\Debug x64\ATIDAQDotnetDemo.vbproj.ResolveComReference.cache
